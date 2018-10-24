@@ -1,6 +1,10 @@
 package edu.lockhaven.comp405;
 
 public class HelloGit {
+	
+	public static void myMethod() {
+		System.out.println("Hello myMethod");
+	}
 
 	public static void myMethod() {
 		System.out.println("Hello myMethod()");
@@ -10,8 +14,12 @@ public class HelloGit {
 		System.out.println("Hello Git!");
 		System.out.println("Hello again");
 		System.out.println("Another Test");
+
+		System.out.println("Greeting from Alfredo");
+
 		System.out.println("Nick Page");
 		System.out.println("Assunta: assuntaBranch > Assunta is always second!");
+
 	}
 	
 	//Edit from Caroline
