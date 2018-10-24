@@ -9,6 +9,10 @@ public class HelloGit {
 		System.out.println("Hello myMethod()");
 
 	}
+	public static void cool()
+	{
+		System.out.println("Cool");
+	}
 	public static void main(String[] args) {
 		System.out.println("Hello Git!");
 		System.out.println("Hello again");
