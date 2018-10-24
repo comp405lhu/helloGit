@@ -10,8 +10,8 @@ public class HelloGit {
 		System.out.println("Hello Git!");
 		System.out.println("Hello again");
 		System.out.println("Another Test");
-		System.out.println("Assunta: assuntaBranch > Assunta is always first!");
-		System.out.println("Approved!");
+		System.out.println("Nick Page");
+		System.out.println("Assunta: assuntaBranch > Assunta is always second!");
 	}
 	
 	//Edit from Caroline
