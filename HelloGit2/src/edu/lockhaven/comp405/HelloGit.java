@@ -13,4 +13,7 @@ public class HelloGit {
 		System.out.println("Assunta: assuntaBranch > Assunta is always first!");
 		System.out.println("Approved!");
 	}
+	
+	//Edit from Caroline
+	//Can I put emojis in my code? :fish_cake:
 }
