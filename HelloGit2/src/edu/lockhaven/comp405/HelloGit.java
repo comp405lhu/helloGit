@@ -11,7 +11,7 @@ public class HelloGit {
 	}
 	public static void cool()
 	{
-		System.out.println("Cool");
+		System.out.println("im not Cool and very lonely :(");
 	}
 	public static void main(String[] args) {
 		System.out.println("Hello Git!");
