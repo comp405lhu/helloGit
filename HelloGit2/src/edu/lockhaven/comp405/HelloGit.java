@@ -14,6 +14,7 @@ public class HelloGit {
 	{
 		System.out.println("Shaun's is the coolest person alive!");
 	}
+	
 	public static void lame()
 	{
 		System.out.println("My names Nick!");
