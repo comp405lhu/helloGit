@@ -8,6 +8,6 @@ public class HelloGit {
 		System.out.println("Another Test");
 	}
 	
-	//Caroline's edit
+	//Edit from Caroline
 
 }
