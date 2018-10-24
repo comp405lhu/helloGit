@@ -12,7 +12,11 @@ public class HelloGit {
 	
 	public static void cool()
 	{
-		System.out.println("Cool");
+		System.out.println("Shaun's is the coolest person alive!");
+	}
+	public static void lame()
+	{
+		System.out.println("My names Nick!");
 	}
 	
 	public static void main(String[] args) {
