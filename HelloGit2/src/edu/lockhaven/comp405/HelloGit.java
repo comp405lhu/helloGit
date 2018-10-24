@@ -5,6 +5,7 @@ package edu.lockhaven.comp405;
 //I'm the best!
 public class HelloGit {
 
+	//hi Mr. Donohue this is the FDIC and ur under a rest for using a curse on my minecraft server
 	public static void sexyCoder() {
 		System.out.println("Code is so sexy!");
 
