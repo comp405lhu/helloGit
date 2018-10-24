@@ -5,6 +5,12 @@ package edu.lockhaven.comp405;
 //I'm the best!
 public class HelloGit {
 
+
+	public static void Pizza() {
+		System.out.println("Pizza");
+	}
+	
+
   
 	//hi Mr. Donohue this is the FDIC and ur under a rest for using a curse on my minecraft server
 	//Sorry I give you cookies!
@@ -50,6 +56,10 @@ public class HelloGit {
 		System.out.println("Hello again");
 		System.out.println("Another Test");
 		System.out.println("Krish: branch1");
+		System.out.println("Time");
+		System.out.println("Dogs are involved with comuniyt service, the workforce, and the military as well.");
+		System.out.println("They have every right to vote!");
+	}
 		shaun();
 
 		System.out.println("Greeting from Alfredo");
