@@ -1,9 +1,1 @@
-# helloGit
-
-
-
-
-
-
-
 hi nick
