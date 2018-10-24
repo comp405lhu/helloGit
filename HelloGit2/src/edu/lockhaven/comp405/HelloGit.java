@@ -51,13 +51,11 @@ public class HelloGit {
 		System.out.println("Another Test");
 		System.out.println("Krish: branch1");
 		shaun();
-	}
 
 		System.out.println("Greeting from Alfredo");
 
 		System.out.println("Nick Page");
 		System.out.println("Assunta: assuntaBranch > Assunta is always second!");
-
 	}
 	
 	//Edit from Caroline
