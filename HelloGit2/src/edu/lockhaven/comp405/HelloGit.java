@@ -4,12 +4,16 @@ package edu.lockhaven.comp405;
 //$Author$ Shaun Donohue
 //I'm the best!
 public class HelloGit {
+
   
 	//hi Mr. Donohue this is the FDIC and ur under a rest for using a curse on my minecraft server
 	//Sorry I give you cookies!
 	public static void sexyCoder() {
 		System.out.println("Code is so sexy!");
-
+  }
+  
+	public static void myMethod() {
+		System.out.println("Hello myMethod");
 	}
 	
 	public static void cool()
@@ -24,11 +28,21 @@ public class HelloGit {
 	
 	public static void myMethod() {
 		System.out.println("Hello myMethod()");
+		System.out.println("The number "+ 23);
 	}
 	
+
 	public static void shaun()
 	{
 		System.out.println("Shaun");
+	}
+  
+	public static int dogVotes() {
+		int dogVotes = 0;
+		for (int i = 0; i < dogVotes; i ++) {
+			dogVotes *=0;
+		}
+		return dogVotes;
 	}
 
 	public static void main(String[] args) {
@@ -39,4 +53,13 @@ public class HelloGit {
 		shaun();
 	}
 
+		System.out.println("Greeting from Alfredo");
+
+		System.out.println("Nick Page");
+		System.out.println("Assunta: assuntaBranch > Assunta is always second!");
+
+	}
+	
+	//Edit from Caroline
+	//Can I put emojis in my code? :fish_cake:
 }
