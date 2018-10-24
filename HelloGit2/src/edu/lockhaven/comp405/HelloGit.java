@@ -9,5 +9,6 @@ public class HelloGit {
 	}
 	
 	//Edit from Caroline
+	//Can I put emojis in my code? :fish_cake:
 
 }
