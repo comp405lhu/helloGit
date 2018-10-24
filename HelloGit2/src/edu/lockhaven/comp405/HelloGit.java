@@ -11,5 +11,6 @@ public class HelloGit {
 		System.out.println("Hello again");
 		System.out.println("Another Test");
 		System.out.println("Assunta: assuntaBranch > Assunta is always first!");
+		System.out.println("Approved!");
 	}
 }
